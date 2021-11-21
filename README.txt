@@ -1,3 +1,7 @@
+The README sent to network administrator
+
+---------------------------------------------------------------------------------------
+
 I am a Computer Science student studying here at UoB. While I was performing some basic
 recon, I noticed a vulnerability.
 
